@@ -1,0 +1,2 @@
+# delhi-Aqi-data-2025-using-pandas-numpy-matplotlib-seaborn-project
+## Delhi AQI Analysis 2025 🌫️  An exploratory data analysis project focused on Delhi's Air Quality Index (AQI) for 2025 using **Python, Pandas, NumPy, Matplotlib, and Seaborn**. The project involves data cleaning, analysis, and visualization to explore air pollution patterns, AQI trends, and changes in air quality throughout the year.
